@@ -1,4 +1,4 @@
-Algoritmo ContarPares_Para
+Proceso ContarPares_Para
 	
     Definir inicio, numfin, i, contador Como Entero;
     contador = 0;
@@ -13,4 +13,4 @@ Algoritmo ContarPares_Para
     FinPara
     Escribir "Cantidad de numeros pares: ", contador;
 	
-FinAlgoritmo
+FinProceso

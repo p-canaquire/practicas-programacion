@@ -1,4 +1,4 @@
-Algoritmo ContarPares_Mientras
+Proceso ContarPares_Mientras
 	
     Definir inicio, numfin, i, contador Como Entero;
     contador = 0;
@@ -15,4 +15,4 @@ Algoritmo ContarPares_Mientras
     FinMientras
     Escribir "Cantidad de numeros pares: ", contador;
 
-FinAlgoritmo
+FinProceso
